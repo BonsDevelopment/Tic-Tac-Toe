@@ -1,0 +1,9 @@
+c:\users\ironb\documents\visual studio 2015\Projects\TicTacToe-comp\TicTacToe-comp\bin\Debug\TicTacToe-comp.exe.config
+c:\users\ironb\documents\visual studio 2015\Projects\TicTacToe-comp\TicTacToe-comp\bin\Debug\TicTacToe-comp.exe
+c:\users\ironb\documents\visual studio 2015\Projects\TicTacToe-comp\TicTacToe-comp\bin\Debug\TicTacToe-comp.pdb
+c:\users\ironb\documents\visual studio 2015\Projects\TicTacToe-comp\TicTacToe-comp\obj\Debug\TicTacToe-comp.csprojResolveAssemblyReference.cache
+c:\users\ironb\documents\visual studio 2015\Projects\TicTacToe-comp\TicTacToe-comp\obj\Debug\TicTacToe_comp.Form1.resources
+c:\users\ironb\documents\visual studio 2015\Projects\TicTacToe-comp\TicTacToe-comp\obj\Debug\TicTacToe_comp.Properties.Resources.resources
+c:\users\ironb\documents\visual studio 2015\Projects\TicTacToe-comp\TicTacToe-comp\obj\Debug\TicTacToe-comp.csproj.GenerateResource.Cache
+c:\users\ironb\documents\visual studio 2015\Projects\TicTacToe-comp\TicTacToe-comp\obj\Debug\TicTacToe-comp.exe
+c:\users\ironb\documents\visual studio 2015\Projects\TicTacToe-comp\TicTacToe-comp\obj\Debug\TicTacToe-comp.pdb
